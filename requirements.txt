@@ -3,3 +3,6 @@ uvicorn
 transformers
 torch
 langchain
+faiss-cpu
+sentence-transformers 
+langchain-community 
